@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Titan</title>
+        <style>
+            body {
+                background-color: rgb(255, 255, 255);
+            }
+            #spacex-heading-1 {
+                color: rgb(255, 255, 255);
+                background-color: rgb(0, 0, 0);
+                margin: 1pc;
+            }
+            #the-moon-journey-heading {
+                font-style: italic;
+                font-size: 2em;
+                text-decoration: underline;
+                margin: 1pc;
+            }
+            #the-future-mars-expedition {
+                font-style: italic;
+                font-size: 2em;
+                text-decoration: underline;
+                margin: 1pc;
+            }
+            #introduction {
+                border: solid;
+                border-color: rgb(255, 255, 255);
+                position: relative;
+            }
+            .aside {
+                margin: 1pc;
+            }
+            #table-of-contents {
+                margin: 2pc;
+                position: relative;
+                border: dashed;
+                width: 84%;
+            }
+            #moon {
+                position: relative;
+            }
+            #mars {
+                position: relative;
+            }
+            #europa {
+                position: relative;
+            }
+            #content-heading {
+                margin: 1pc;
+            }
+            #the-europa-expedition-of-2077 {
+                position: relative;
+                font-style: italic;
+                font-size: 2em;
+                text-decoration: underline;
+                margin: 1pc;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="introduction">
+        <h1 id="spacex-heading-1">Space Exploration Technologies</h1>
+        
+        <h2 class="aside">You have won a prize ticket to the Moon! </h2>
+        <p class="aside">Congratulations on winning the prize ticket to the moon on the recent competition to name the Human Landing System (<strong>HLS</strong>) for the NASA x SpaceX Moon program. The name you have chosen was [<em>redacted</em>]. Ah, what a beautiful name. You have won this prize fair and square and on [<em>redacted</em>]. As a special reward, Elon Musk will personally go to the moon with you! It is our job to get you to the moon safely and back. All cost during the journey will be fufilled by Mr. Musk as he took the initiative to give you the best care on the spacecraft that you named! Without further due, lets get to the details.</p>
+        </div>
+        
+        <div id="table-of-contents">
+        <h3 id="content-heading">Contents:</h3>
+        <ul>
+            <li><a href="#moon">The Moon Journey</a></li>
+            <li><a href="#mars">The Future Mars Expedition</a></li>
+            <li><a href="#europa">The Europa Expedition of 2077</a></li>
+        </ul>
+        </div>
+        
+        <div id="moon">
+        <p id="the-moon-journey-heading">The Moon Journey</p>
+        <ul>
+            <li>Requirements (<strong>Civilians Only</strong>):</li>
+            <p>If this is you first time going to space, fret not, we have your back! During this journey, you will be provided a special suit issued by SpaceX to help you from harmful radiation in space and the moon. Addtional minor equipment will be provided to you during the launch on [<em>redacted</em>]. In terms of luggage, it is not really necessary for you to bring anything to this journey as NASA will compensate you with the products necessary for the trip.  </p>
+            
+            <li>About the <em>Spacecraft</em>:</li>
+            <p>Starship (aka [<em>redacted</em>]) is the world's most versatile launch vehicle and spacecraft. It can transfer 1,100 cubic meters of cargo into Low Earth Orbit (<strong>LEO</strong>) and it is also configured for both crew and cargo. With a thrust of 72 Mega Newtons (<strong>MN</strong>) and a propellant capacity of 3400 tonnes, The Super Heavy Rocket (aka <strong>BFR</strong>) is designed to carry the second stage Starship to Low Earth Orbit quickly and efficiently. If there are any malfunctions detected within the rocket during lauch period, the Starship integrated system will automatically detach from the BFR and bring Starship down to safety. The Starship Artificial Intelligence is the best in the world; It has the top safety records and is fully autonomous.</p>
+            <p>If you want to learn more about Starship, <a href="https://www.spacex.com/vehicles/starship/">Click Here</a></p>
+            
+            <li>About the <em>Moon</em>:</li>
+            <p>The Moon is Earth's only natural satellite. The size is roughly one quarter of the diameter of the Earth.  it is the largest natural satellite in the Solar System relative to the size of its planet, the fifth largest satellite in the Solar System overall, and is larger than any known dwarf planet. In the late 60's to early 70's, The United States and The Soviet Union were competing for space dominance, also known as "The Space Race." The race to space between these two global superpowers set the stage for the moon landings in 1969. Neil Armstrong and Edwin "Buzz" Aldrin were the first of 12 human beings who walked on the Moon, showing the world that with hardwork and preserverence, science fiction can turn into science reality. Fast forward to present day, you are going to be the 13th human being that is ever to walk on the lunar surface! You are also considered to be the first civilian astronaut that is ever to walk on the lunar surface, breaking another milestone. </p>
+        </ul>
+        </div>
+        
+        <div id= "mars">
+        <p id="the-future-mars-expedition">The Future Mars Expedition</p>
+        <ul>
+            <li>Mars Expedition Information:</li>
+            <p>In the years following the civilian Lunar Landing, SpaceX will be conducting its very first Martian cargo landing, followed by a crew landing in [<em>redacted</em>]. This will be a seminal moment for the world as it will witness the first private company to ever land astronauts onto another planet. Furthermore, in [<em>redacted</em>], there will be another competition to name a Martian Lander created by SpaceX for chance to call seats for a civilian astronaut to visit the red planet. If you'd like to watch a video on how to sign up, <a href="https://www.youtube.com/watch?v=j5a0jTc9S10&t=14s">Click Here</a>.</p>
+            
+            
+        </ul>
+        </div>
+        
+        <div id="europa">
+        <p id="the-europa-expedition-of-2077">The Europa Expedition of 2077</p>
+        <ul>
+            <li>The Europa Expedition:</li>
+            <p>SpaceX and NASA has bigger ambitions to fulfill. By the summer of 2077, NASA has plans colonize Europa, one of the smallest moons of jupiter. In the year [<em>redacted</em>], SpaceX will begin preparation for the building of the world's first <em>Star Fleet</em> which can carry up to a fleet of 500 Starships of different varients that are capable for deep space travel (newer models of that year can only travel the solar system, but future models are able to travel beyond the solar system to inteller stellar masses). With this technology, we will be able to colonize Europa  more efficiently and quickly. </p>
+        </ul>
+        </div>
+        
+        
+        
+    </body>
+</html>
